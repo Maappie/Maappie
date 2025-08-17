@@ -8,10 +8,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Renz's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzmapa&show_icons=true&theme=tokyonight)
+![Renz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maappie&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 Languages I Use  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzmapa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maappie&layout=compact&theme=tokyonight)
 
