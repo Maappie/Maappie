@@ -16,5 +16,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maappie&layout=compact&theme=tokyonight)
 
 [![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=tokyonight&line1=ruby,Ruby,red;html5,HTML5,orange;python,Python,blue&line2=docker,Docker,blue;bash,Bash,black)](https://github.com/Maappie)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge)
 
 
