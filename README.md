@@ -8,12 +8,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![Renz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maappie&show_icons=true&theme=tokyonight)
+![Renz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maappie&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=30&v=2)
 
 ---
 
 ## 📈 Languages I Use  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maappie&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maappie&layout=compact&theme=tokyonight&cache_seconds=30)
 
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?theme=tokyonight&lineCount=2&line1=ruby,Ruby,red;html5,HTML5,orange;php,PHP,777BB4;python,Python,blue&line2=docker,Docker,blue;bash,Bash,black;cpp,C%2B%2B,00599C;arduino,Arduino,00979D;espressif,ESP32,000000)
 
