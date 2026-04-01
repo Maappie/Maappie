@@ -20,7 +20,7 @@
 ---
 
 ## 🧰 Tech Stack  
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?theme=tokyonight&lineCount=2&line1=ruby,Ruby,red;html5,HTML5,orange;php,PHP,777BB4;python,Python,blue&line2=docker,Docker,blue;bash,Bash,black;cpp,C%2B%2B,00599C;arduino,Arduino,00979D;espressif,ESP32,000000)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?theme=tokyonight&lineCount=2&line1=javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;python,Python,3776AB;openjdk,Java,ED8B00;php,PHP,777BB4&line2=nextdotjs,Next.js,000000;nestjs,NestJS,E0234E;fastapi,FastAPI,05998B;espressif,ESP32,E7352C;docker,Docker,2496ED)
 
 ---
 
