@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Renz Mapa  
 
 💻 A passionate learner exploring software development and IoT.  
-🌱 Currently diving deeper into web development and smart systems.  
+🌱 Currently diving deeper into web development and backend systems.  
 ✨ I enjoy building projects that combine creativity with real-world problem solving.  
 
 ---
